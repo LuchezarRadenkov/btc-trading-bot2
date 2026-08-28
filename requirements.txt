@@ -1,0 +1,10 @@
+tradingview-ta
+pandas
+numpy
+requests
+gspread
+google-auth
+feedparser
+pybit
+xgboost
+scikit-learn
